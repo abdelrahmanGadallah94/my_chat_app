@@ -1,0 +1,31 @@
+class AppString {
+  static const String signIn = "Sign In";
+  static const String signUp = "Sign Up";
+  static const String fontFamilyStyle = "Lobster";
+  static const String greeting = "Welcome To Our Chat App";
+  static const String logoImageLink = "assets/images/logo.png";
+  static const String homeImageLink = "assets/images/home screen.png";
+  static const String backgroundImageLink = "assets/images/register.jpg";
+  static const String email = "Email";
+  static const String password = "Password";
+  static const String haveNoAccount = "don't have an account?";
+  static const String haveAnAccount = "already have an account?";
+  static const String register = "Register";
+  static const String login = "Login";
+  static const String name = "Name";
+  static const String weakPassword = "weak password";
+  static const String emailIsUsed = "email already in use";
+  static const String canNotEmpty = "Can Not Be Empty";
+  static const String success = "success";
+  static const String wrongPassword = "Wrong Password";
+  static const String noUserFound = "No User Found";
+  static const String chats = "Chats";
+  static const String sendMessage = "Send Message";
+  static const String messageStored = "messages";
+  static const String message = "message";
+  static const String id = "id";
+  static const String loading = "Loading....";
+  static const String time = "time";
+  static const String anonymous = "Unknown";
+  static const String users = "users";
+}
